@@ -1,6 +1,6 @@
 **Ravi Chaubey**  
 **Full Stack Developer | Expertise in Scalable System Design | Microservices & Micro-frontend Architecture | JavaScript Developer | DevOps & Cloud Enthusiast | AI Enthusiast**
-
+rchaubey00@gmail.com  | https://linkedin.com/in/ravi-chaubey | https://github.com/ravi-chaubey  | +91-9149321482
 ---
 
 ### **Professional Summary**
