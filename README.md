@@ -1,9 +1,3 @@
-**Ravi Chaubey**  
-**Full Stack Developer | Expertise in Scalable System Design | Microservices & Micro-frontend Architecture | JavaScript Developer | DevOps & Cloud Enthusiast | AI Enthusiast**
----
-### **Professional Summary**
-Innovative and results-driven Full Stack Developer with extensive experience in scalable system design, microservices, and micro-frontend architecture. Adept at collaborating with cross-functional teams to deliver high-quality products that meet client needs and enhance user experience. Proficient in both frontend and backend technologies, with a strong focus on performance optimization and usability improvements.
----
 ### **Work Experience**
 **Buzzyears Education Pvt. Ltd**  
 *Full Stack Developer*  
